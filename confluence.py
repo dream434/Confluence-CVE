@@ -13,8 +13,8 @@ class couleur:
 		  		
 
 figlet = Figlet(font='slant')
-result = figlet.renderText("Ys jhonson")
-dak= figlet.renderText("Le wana")
+result = figlet.renderText("jhonson")
+dak= figlet.renderText("jon")
 
 print(couleur.ba+result)
 print(couleur.ba+dak)
